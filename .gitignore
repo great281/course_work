@@ -1,5 +1,3 @@
-cmdclc
-test
 *.out
 *.o
 *.a

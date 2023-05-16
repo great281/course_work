@@ -1,0 +1,6 @@
+cmdclc
+test
+*.out
+*.o
+*.a
+*.d
